@@ -1,1 +1,1 @@
-alert('1');
+document.querySelector(.elementor-widget-container).style.display = "none";
