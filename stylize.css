@@ -1,1 +1,13 @@
-//
+.r1 {
+  animation: rotation 0.25s infinite linear;
+}
+
+
+@keyframes r1 {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(359deg);
+  }
+}
