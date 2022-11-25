@@ -1,1 +1,2 @@
-console.log("test working2");
+let img = document.querySelectorAll(img);
+img.classList.add(r1)
