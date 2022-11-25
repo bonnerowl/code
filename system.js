@@ -1,2 +1,2 @@
-let img = document.getElementsByClassName(.swiper-slide-contents);
-img.classList.add(r1)
+let img = document.querySelectorAll(img);
+img.classList.add(rot)
