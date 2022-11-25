@@ -1,4 +1,4 @@
-@-webkit-keyframes rotty {
+@-webkit-keyframes rotation {
   from {
     -webkit-transform: rotate(0deg);
     -o-transform: rotate(0deg);
@@ -10,7 +10,7 @@
     transform: rotate(360deg);
   }
 }
-@keyframes rotty {
+@keyframes rotation {
   from {
     -ms-transform: rotate(0deg);
     -moz-transform: rotate(0deg);
